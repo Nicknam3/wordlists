@@ -2200,6 +2200,7 @@ dev-device
 devdog
 deveat
 devel
+devlake
 develop
 developer
 developer-preprod
@@ -2543,6 +2544,7 @@ elearning
 election
 elections
 electric
+electron
 element
 elementaire
 elementaires
@@ -2957,6 +2959,7 @@ ff
 ff7
 fff
 fg
+fhir
 fiat
 fiber
 fibre
@@ -4244,6 +4247,7 @@ ladefense
 lafibrepc
 laformation
 lafrenchtech
+lake
 lamodernite
 lamp
 lampli
@@ -7209,6 +7213,7 @@ secureclient
 secured
 secureftp
 securelogin
+securelink
 securemail
 securemote
 secureplatform
